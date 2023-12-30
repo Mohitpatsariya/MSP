@@ -1,0 +1,11 @@
+.control{
+    text-align: center;
+    background-color: rgb(198, 75, 75);
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin-top: 40;
+}
+.control2{
+    text-align:center ;
+    margin: 20px;
+}
